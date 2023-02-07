@@ -1,9 +1,12 @@
-# code-challenge resolution v1 (using only Docker, Python and psycopg2 lib)
+# code-challenge solution v1 (using only Docker, Python and psycopg2 lib)
 Simple solution to resolve the challenge (using only Docker, Python and psycopg2 lib)
 
 - Note 1: The extracted data will be organized inside the folder named as "data"
 - Note 2: The simple log files are used to help running thes scripts in a valid sequence
 - Note 3: For simplicity, login credentials are hard-coded in scripts and versioned by Git/GitHub
+
+# Video about this solution:
+https://youtu.be/aZYsdALuyj8
 
 # How to prepare the simple environment:
 - Download and install Docker from: https://www.docker.com/. A reboot may be required
