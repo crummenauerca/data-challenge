@@ -1,0 +1,5 @@
+data/csv/
+data/postgres/
+data/result
+dbdata/
+*.log
