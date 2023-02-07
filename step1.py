@@ -6,7 +6,6 @@ file = open("step1.log", "w")
 file.write("step1attempt")
 file.close()
 
-#connection = psycopg2.connect("dbname=source_db user=postgres host='localhost' password=1234")
 connection = psycopg2.connect("dbname=northwind user=northwind_user host=localhost port=5441 password=thewindisblowing")
 cursor = connection.cursor()
 
