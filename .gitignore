@@ -2,4 +2,7 @@ data/csv/
 data/postgres/
 data/result
 dbdata/
-*.log
+__pycache__
+plugins
+logs
+*final_data_sample.csv
